@@ -10,7 +10,8 @@ VIDEO="https://drive.google.com/uc?export=download&id=1pXCkxS92ZeJORx77cKgMQFnaR
 
 # 🔹 2. Your YouTube Stream Key (keep it private!)
 # You can find it in YouTube Studio → Go Live → Stream Settings.
-STREAM_KEY="xzzy-emt8-9880-wzrd-9ed5"
+STREAM_KEY=$STREAM_KEY
+
 
 # ============================================================
 #  Don't edit below unless you know what you're doing
