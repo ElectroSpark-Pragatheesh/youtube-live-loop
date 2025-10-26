@@ -1,7 +1,7 @@
 #!/bin/bash
 # ============================================================
 #  YouTube 24/7 Loop Stream Script
-#  by ElectroSpark-Pragatheesh ⚡
+#  by ElectroSpark-Pragatheesh ⚡thhgb
 # ============================================================
 
 # 🔹 1. Your video file link (Google Drive direct download link)
